@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+.form-table{
+	padding: 10px;
+	border: 1px solid blue;
+}
+
+input[type=text]{
+	width: 250px;
+	margin-left: 10px;
+}
+
+.create-button{
+	margin-left: 10px;
+}
+
+.text-area{
+	width: 250px;
+	heigth: 300px;
+	margin-left: 10px;
+}
+
+.label{
+	text-align: right;
+	vertical-align: top;
+}
+
+table.student {
+	padding: 20px;
+	border: 1px solid gray;
+}
